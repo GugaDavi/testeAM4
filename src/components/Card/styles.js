@@ -10,6 +10,7 @@ export const Container = styled.View`
   flex-direction: row;
   border-radius: 4px;
   margin-bottom: 20px;
+  opacity: 1;
 `;
 export const CardImage = styled.Image.attrs({
   source: image,
@@ -28,20 +29,24 @@ export const Title = styled.Text`
   line-height: 23px;
   font-weight: bold;
   text-align: left;
+  color: #222;
 `;
 export const Segment = styled.Text`
   font-size: 16px;
   line-height: 19px;
   text-align: left;
+  color: #222;
 `;
 export const Age = styled.Text`
   font-size: 16px;
   line-height: 19px;
   text-align: left;
+  color: #222;
 `;
 export const Stars = styled.View`
   flex-direction: row;
   margin: 20px 0px 20px;
+  color: #222;
 `;
 export const DownloadButton = styled.TouchableOpacity`
   flex-direction: row;

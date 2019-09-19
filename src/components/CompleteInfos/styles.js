@@ -34,11 +34,13 @@ export const GenericInfo = styled.Text`
   line-height: 17px;
   font-weight: bold;
   text-align: left;
+  color: #222;
 `;
 export const NameInfo = styled.Text`
   font-size: 16px;
   line-height: 19px;
   text-align: left;
+  color: #222;
 `;
 export const Stars = styled.View`
   flex-direction: row;
@@ -50,6 +52,7 @@ export const TextDescription = styled.Text`
   line-height: 17px;
   text-align: left;
   margin: 20px 0px;
+  color: #222;
 `;
 export const DownloadButton = styled.TouchableOpacity`
   flex-direction: row;
@@ -83,9 +86,12 @@ export const Value = styled.Text`
   text-align: center;
   font-size: 31px;
   font-weight: bold;
+  color: #222;
 `;
+
 export const Pagament = styled.Text`
   text-align: center;
+  color: #222;
 `;
 export const ButtonAddCart = styled.TouchableOpacity`
   flex-direction: row;

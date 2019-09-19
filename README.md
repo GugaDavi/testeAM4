@@ -4,7 +4,7 @@
 
 Clone este repositório através da linha de comando
 
-git clone https://github.com/GugaDavi/ - **Necessario git estar instalado**
+git clone https://github.com/GugaDavi/testeAM4 - **Necessario git estar instalado**
 
 Ou faça o download e extraia os arquivos.
 
